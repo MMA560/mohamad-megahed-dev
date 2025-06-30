@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-center md:text-left">
             <p className="text-sm text-muted-foreground">
-              © 2024 Mohamad Megahed Abo-Elsouod. All rights reserved.
+              © 2025 Mohamad Megahed Abo-Elsouod. All rights reserved.
             </p>
             <p className="text-xs text-muted-foreground mt-1">
               Built with React, TypeScript & Tailwind CSS
