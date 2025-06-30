@@ -89,7 +89,7 @@ const Contact = () => {
                       value={formData.email}
                       onChange={handleChange}
                       required
-                      placeholder="mohamadmegahed320@gmail.com"
+                      placeholder="your.email@example.com"
                     />
                   </div>
                   
@@ -136,7 +136,7 @@ const Contact = () => {
                 <CardContent className="space-y-4">
                   <div>
                     <Label className="text-sm font-medium">Email</Label>
-                    <p className="text-muted-foreground">your-email@example.com</p>
+                    <p className="text-muted-foreground">mohamadmegahed320@gmail.com</p>
                   </div>
                   <div>
                     <Label className="text-sm font-medium">Response Time</Label>
