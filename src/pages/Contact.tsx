@@ -89,7 +89,7 @@ const Contact = () => {
                       value={formData.email}
                       onChange={handleChange}
                       required
-                      placeholder="your.email@example.com"
+                      placeholder="mohamadmegahed320@gmail.com"
                     />
                   </div>
                   
@@ -162,13 +162,13 @@ const Contact = () => {
                 <CardContent>
                   <div className="flex space-x-4">
                     <Button variant="outline" size="icon" asChild>
-                      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                      <a href="https://github.com/MMA560/" target="_blank" rel="noopener noreferrer">
                         <Github className="h-5 w-5" />
                         <span className="sr-only">GitHub</span>
                       </a>
                     </Button>
                     <Button variant="outline" size="icon" asChild>
-                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                      <a href="https://www.linkedin.com/in/mma320/" target="_blank" rel="noopener noreferrer">
                         <Linkedin className="h-5 w-5" />
                         <span className="sr-only">LinkedIn</span>
                       </a>

@@ -68,7 +68,7 @@ const Index = () => {
                 <div className="relative">
                   <div className="w-full h-96 bg-gradient-to-br from-tech-blue/20 to-tech-green/20 rounded-2xl flex items-center justify-center">
                     <img 
-                      src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" 
+                      src="https://res.cloudinary.com/dys5eyjxp/image/upload/v1751252603/1707341392881_gjliss.jpg" 
                       alt="Mohamad Megahed Abo-Elsouod" 
                       className="w-64 h-64 object-cover rounded-full border-4 border-background shadow-2xl"
                     />

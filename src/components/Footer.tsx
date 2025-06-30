@@ -18,19 +18,19 @@ const Footer = () => {
           
           <div className="flex items-center space-x-4">
             <Button variant="ghost" size="icon" asChild>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/MMA560/" target="_blank" rel="noopener noreferrer">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
               </a>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/mma320/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </a>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <a href="mailto:your-email@example.com">
+              <a href="mailto:mohamadmegahed320@gmail.com">
                 <Mail className="h-5 w-5" />
                 <span className="sr-only">Email</span>
               </a>

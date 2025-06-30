@@ -11,11 +11,11 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "AI Quiz Platform",
+      title: "Quiz App Platform",
       shortDescription: "Intelligent quiz generation system with adaptive learning algorithms",
       fullDescription: "A comprehensive educational platform that uses AI to generate personalized quizzes based on user performance and learning patterns. Features include real-time analytics, progress tracking, and adaptive difficulty adjustment. Built with FastAPI backend for efficient API handling and React frontend for smooth user experience.",
-      image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
-      techStack: ["Python", "FastAPI", "PostgreSQL", "React", "OpenAI API", "Docker"],
+      image: "https://res.cloudinary.com/dys5eyjxp/image/upload/v1751254183/Screenshot_3_q6h67h.png",
+      techStack: ["Python", "FastAPI", "PostgreSQL", "React", "OpenAI API", "Docker", "Stripe"],
       features: [
         "AI-powered quiz generation",
         "Adaptive learning algorithms", 
@@ -24,7 +24,7 @@ const Projects = () => {
         "Responsive design"
       ],
       challenges: "Implementing efficient AI algorithms for question generation while maintaining low response times",
-      liveUrl: "#",
+      liveUrl: "https://quiz-app-react-frontend-eight.vercel.app/",
       codeUrl: "private"
     },
     {
@@ -32,8 +32,8 @@ const Projects = () => {
       title: "E-commerce Store",
       shortDescription: "Full-featured online store with payment processing and inventory management",
       fullDescription: "A complete e-commerce solution featuring product catalog, shopping cart, secure payment processing with Stripe, inventory management, and order tracking. Includes admin dashboard for store management and customer analytics. Built with focus on security and scalability.",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
-      techStack: ["Python", "FastAPI", "PostgreSQL", "React", "Stripe", "Redux", "AWS"],
+      image: "https://res.cloudinary.com/dys5eyjxp/image/upload/v1751253730/WhatsApp_Image_2025-06-25_at_1.23.46_AM_sallje.jpg",
+      techStack: ["Python", "FastAPI", "FireBase", "React", "Hooks"],
       features: [
         "Product catalog and search",
         "Shopping cart and checkout",
@@ -43,7 +43,7 @@ const Projects = () => {
         "Admin dashboard"
       ],
       challenges: "Implementing secure payment processing and handling complex inventory tracking across multiple product variants",
-      liveUrl: "#",
+      liveUrl: "https://teste-comerce-store.vercel.app/",
       codeUrl: "private"
     },
     {
